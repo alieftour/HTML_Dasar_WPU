@@ -1,2 +1,2 @@
 # HTML_Dasar_WPU
-Repository Belajar HTML secara online dengan Pak Sandhika Galih disertai improvisasi
+Repository Belajar HTML dan CSS secara online dengan Pak Sandhika Galih disertai improvisasi
